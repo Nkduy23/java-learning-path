@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/java-learning-path.iml" filepath="$PROJECT_DIR$/.idea/java-learning-path.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project-02-student-manager/project-02-student-manager.iml" filepath="$PROJECT_DIR$/project-02-student-manager/project-02-student-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project-03-bank-system/project-03-bank-system.iml" filepath="$PROJECT_DIR$/project-03-bank-system/project-03-bank-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project-01-calculator/src/src.iml" filepath="$PROJECT_DIR$/project-01-calculator/src/src.iml" />
     </modules>
   </component>
 </project>
